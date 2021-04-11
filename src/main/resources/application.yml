@@ -1,0 +1,8 @@
+server:
+    port: 8080
+spring:
+    main:
+        banner-mode: 'off'
+#    profiles:
+#        active: qa
+#        include: datasource-h2,hibernate,logging
